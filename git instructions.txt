@@ -1,0 +1,8 @@
+git --version = for checking version of git.
+
+git config --list = to check the configuration.
+
+git config --global user.name "your name"
+
+git config --global user.email "your email"
+
