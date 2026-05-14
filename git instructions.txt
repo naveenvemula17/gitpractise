@@ -1,8 +1,46 @@
-git --version = for checking version of git.
+1.git --version = for checking version of git.
 
-git config --list = to check the configuration.
+2.git config --list = to check the configuration.
 
-git config --global user.name "your name"
+  git config --global user.name "your name"
 
-git config --global user.email "your email"
+  git config --global user.email "your email"
+
+  ***these config is set for your pc, these don't effect if we change drives***
+
+3.git init initializes a new Git repository in your current folder.
+
+	When you run:
+
+	git init
+
+	Git creates a hidden folder named:
+
+	.git
+
+	This .git folder stores:
+
+	commit history
+	branches
+	configuration
+	tracking information
+	all Git metadata
+
+4. git status === this shows any new files, modified files, staged files.
+
+5. git add . === stages all files for next commit.
+
+6. git commit -m "type your msg "
+
+CONNECTING LOCAL PROJECT TO GITHUB.
+
+1. git remote add origin ***url***
+
+
+
+
+
+
+
+
 
