@@ -36,6 +36,11 @@ CONNECTING LOCAL PROJECT TO GITHUB.
 
 1. git remote add origin ***url***
 
+2.git push === uploads to github.
+
+
+now check status,add ., commit, push 
+
 
 
 
