@@ -63,6 +63,11 @@ git push -u origin *** name***
 
 1. git pull origin *****hero******** ===== pulls files from branch hero  to current branch.
 
+this is something writing for learning git pr in detail.
+
+
+
+
 
 
 
