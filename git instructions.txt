@@ -36,10 +36,30 @@ CONNECTING LOCAL PROJECT TO GITHUB.
 
 1. git remote add origin ***url***
 
-2.git push === uploads to github.
+2. git push === uploads to github.
 
 
 now check status,add ., commit, push 
+
+---------------------------------git branch commands--------------------------------------------------
+
+TO CHANGE NAME OF BRANCH WE USE:
+
+1. git branch -m ***name***
+
+After this we need to push while using we may get upstream error ,so we need set remote as upstream use 
+git push -u origin *** name***
+
+2. git branch === gives list of branches.
+
+3. git checkout -b ***name*** === creates new branch with name and switches to it.
+
+4. git branch -d ***hero*** === deletes branch with name "hero" , if it is not current branch.
+
+5. git checkout ***hero*** === switches to branch with name "hero".
+
+
+
 
 
 
