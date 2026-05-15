@@ -32,7 +32,7 @@
 
 6. git commit -m "type your msg "
 
-CONNECTING LOCAL PROJECT TO GITHUB.
+--------------------------------- CONNECTING LOCAL PROJECT TO GITHUB.-------------------------------
 
 1. git remote add origin ***url***
 
@@ -41,7 +41,7 @@ CONNECTING LOCAL PROJECT TO GITHUB.
 
 now check status,add ., commit, push 
 
----------------------------------git branch commands--------------------------------------------------
+--------------------------------- GIT BRANCH COMMANDS. --------------------------------------------------
 
 TO CHANGE NAME OF BRANCH WE USE:
 
@@ -57,6 +57,14 @@ git push -u origin *** name***
 4. git branch -d ***hero*** === deletes branch with name "hero" , if it is not current branch.
 
 5. git checkout ***hero*** === switches to branch with name "hero".
+
+
+-------------------------------------------- PULLING. -----------------------------
+
+1. git pull origin *****hero******** ===== pulls files from branch hero  to current branch.
+
+
+
 
 
 
